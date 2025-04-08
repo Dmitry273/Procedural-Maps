@@ -1,14 +1,14 @@
 {
-  "shape": [250, 250],
+  "shape": [50, 50],
   "normalization_range": [0.0, 1.0],
   "height_map": [
     {
       "noise_variant": "ridge",
       "octaves": [
-        [1.3, 3]
+        [5, 5]
       ],
       "elevation_distribution": [80],
-      "noise_exp": 1
+      "noise_exp": 5
     },
     {
       "noise_variant": "simplex",

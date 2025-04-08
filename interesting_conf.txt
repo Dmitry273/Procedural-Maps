@@ -1,0 +1,7 @@
+legend: octaves: x,y noise: z
+default: 1.3,3,1
+wobley walls between big flats: 5,5,10
+wobley walls between small flats: 8,8,10
+scattered wobley walls: 10,10,10
+peppered walls: 10,10,100
+inverse caves: 4,4,4
